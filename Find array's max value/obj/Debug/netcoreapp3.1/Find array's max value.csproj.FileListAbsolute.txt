@@ -1,0 +1,14 @@
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\bin\Debug\netcoreapp3.1\Find array's max value.exe
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\bin\Debug\netcoreapp3.1\Find array's max value.deps.json
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\bin\Debug\netcoreapp3.1\Find array's max value.runtimeconfig.json
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\bin\Debug\netcoreapp3.1\Find array's max value.runtimeconfig.dev.json
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\bin\Debug\netcoreapp3.1\Find array's max value.dll
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\bin\Debug\netcoreapp3.1\Find array's max value.pdb
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.csproj.AssemblyReference.cache
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.AssemblyInfo.cs
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.csproj.CoreCompileInputs.cache
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.dll
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.pdb
+C:\Users\kamra\source\repos\Find array's max value\Find array's max value\obj\Debug\netcoreapp3.1\Find array's max value.genruntimeconfig.cache
